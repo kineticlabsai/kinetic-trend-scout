@@ -1,3 +1,4 @@
-praw
-openai
+feedparser
+groq
 python-dotenv
+requests
